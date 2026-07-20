@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/NITIN2028/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NITIN2028/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1929-concatenation-of-array](https://github.com/NITIN2028/DSA/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
@@ -70,4 +71,12 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/NITIN2028/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/NITIN2028/DSA/tree/master/0009-palindrome-number) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/NITIN2028/DSA/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/NITIN2028/DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
