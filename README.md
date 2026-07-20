@@ -12,6 +12,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NITIN2028/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NITIN2028/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0509-fibonacci-number](https://github.com/NITIN2028/DSA/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/NITIN2028/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/NITIN2028/DSA/tree/master/0009-palindrome-number) |
+| [0509-fibonacci-number](https://github.com/NITIN2028/DSA/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,4 +81,12 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/NITIN2028/DSA/tree/master/0073-set-matrix-zeroes) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/NITIN2028/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/NITIN2028/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
