@@ -65,4 +65,8 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/NITIN2028/DSA/tree/master/1929-concatenation-of-array) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/NITIN2028/DSA/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
