@@ -106,4 +106,12 @@
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NITIN2028/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/NITIN2028/DSA/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/NITIN2028/DSA/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
