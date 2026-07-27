@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/NITIN2028/DSA/tree/master/0014-longest-common-prefix) |
 | [0073-set-matrix-zeroes](https://github.com/NITIN2028/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NITIN2028/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1929-concatenation-of-array](https://github.com/NITIN2028/DSA/tree/master/1929-concatenation-of-array) |
@@ -118,6 +119,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/NITIN2028/DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/NITIN2028/DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/NITIN2028/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/NITIN2028/DSA/tree/master/0242-valid-anagram) |
@@ -132,4 +134,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/NITIN2028/DSA/tree/master/0796-rotate-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/NITIN2028/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
