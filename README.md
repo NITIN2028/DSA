@@ -95,6 +95,7 @@
 | [0242-valid-anagram](https://github.com/NITIN2028/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/NITIN2028/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NITIN2028/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/NITIN2028/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Matrix
 |  |
 | ------- |
@@ -130,6 +131,7 @@
 | [0344-reverse-string](https://github.com/NITIN2028/DSA/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/NITIN2028/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/NITIN2028/DSA/tree/master/0796-rotate-string) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/NITIN2028/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/NITIN2028/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -155,4 +157,5 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/NITIN2028/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/NITIN2028/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->
