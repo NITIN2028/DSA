@@ -1,54 +1,61 @@
 class Solution {
 public:
 
-    int lowerbound(vector<int> &nums, int target) {
-        int n = nums.size();
-        int low = 0, high = n - 1;
-        int ans = n;
+    int firstOccurrence(vector<int>& arr, int target) {
+        int low = 0;
+        int high = arr.size() - 1;
+        int ans = -1;
 
         while (low <= high) {
             int mid = low + (high - low) / 2;
 
-            if (nums[mid] >= target) {
+            if (arr[mid] == target) {
                 ans = mid;
                 high = mid - 1;
-            } else {
+            }
+            else if (arr[mid] < target) {
                 low = mid + 1;
             }
+            else {
+                high = mid - 1;
+            }
         }
+
         return ans;
     }
 
-    int upperbound(vector<int> &nums, int target) {
-        int n = nums.size();
-        int low = 0, high = n - 1;
-        int ans = n;
+    int lastOccurrence(vector<int>& arr, int target) {
+        int low = 0;
+        int high = arr.size() - 1;
+        int ans = -1;
 
         while (low <= high) {
             int mid = low + (high - low) / 2;
 
-            if (nums[mid] > target) {
+            if (arr[mid] == target) {
                 ans = mid;
-                high = mid - 1;
-            } else {
                 low = mid + 1;
             }
+            else if (arr[mid] < target) {
+                low = mid + 1;
+            }
+            else {
+                high = mid - 1;
+            }
         }
+
         return ans;
     }
 
     vector<int> searchRange(vector<int>& nums, int target) {
-        int n = nums.size();
 
-        int lb = lowerbound(nums, target);
+        int first = firstOccurrence(nums, target);
 
-        // target not found
-        if (lb == n || nums[lb] != target) {
-            return {-1, -1};
-        }
+        if (first == -1)
+            return {-1,-1};
 
-        int ub = upperbound(nums, target);
+        int last = lastOccurrence(nums, target);
 
-        return {lb, ub - 1};
+        return {first,last};
     }
 };
