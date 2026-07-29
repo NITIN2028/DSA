@@ -7,6 +7,7 @@
 | [0014-longest-common-prefix](https://github.com/NITIN2028/DSA/tree/master/0014-longest-common-prefix) |
 | [0073-set-matrix-zeroes](https://github.com/NITIN2028/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NITIN2028/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0704-binary-search](https://github.com/NITIN2028/DSA/tree/master/0704-binary-search) |
 | [1929-concatenation-of-array](https://github.com/NITIN2028/DSA/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
@@ -158,4 +159,8 @@
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/NITIN2028/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/NITIN2028/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/NITIN2028/DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
