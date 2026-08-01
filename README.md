@@ -13,6 +13,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NITIN2028/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NITIN2028/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/NITIN2028/DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/NITIN2028/DSA/tree/master/0875-koko-eating-bananas) |
 | [1929-concatenation-of-array](https://github.com/NITIN2028/DSA/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
@@ -173,4 +174,5 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NITIN2028/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NITIN2028/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/NITIN2028/DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/NITIN2028/DSA/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
