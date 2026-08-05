@@ -12,6 +12,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/NITIN2028/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NITIN2028/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NITIN2028/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/NITIN2028/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NITIN2028/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/NITIN2028/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/NITIN2028/DSA/tree/master/0875-koko-eating-bananas) |
@@ -113,6 +114,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/NITIN2028/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/NITIN2028/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/NITIN2028/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -179,6 +181,7 @@
 | [0074-search-a-2d-matrix](https://github.com/NITIN2028/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/NITIN2028/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NITIN2028/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/NITIN2028/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NITIN2028/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/NITIN2028/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/NITIN2028/DSA/tree/master/0875-koko-eating-bananas) |
@@ -186,4 +189,8 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/NITIN2028/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/NITIN2028/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/NITIN2028/DSA/tree/master/1539-kth-missing-positive-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/NITIN2028/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
