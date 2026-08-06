@@ -21,4 +21,32 @@ public:
 
         return count;
     }
+}; 
+
+class Solution{
+public:
+    int longestSubarray(vector<int> &arr, int k){  // 
+        int n =arr.size();
+        int sum=0;
+        int maxi=0;
+        map<long long ,int>mp;
+        for (int i=0;i<n;i++){
+             sum+=arr[i];
+             if(sum==k){
+                 maxi=max(maxi,i+1);
+                 
+             }
+             int rem=sum-k;
+             if(mp.find(rem)!=mp.end()){
+                 int len=i-mp[rem];
+                 maxi=max(maxi,len);
+             }
+             if(mp.find(sum)==mp.end()){
+                 mp[sum]=i;
+             }
+        }
+        
+       
+     return maxi;
+    }
 };
