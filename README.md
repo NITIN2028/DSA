@@ -21,6 +21,7 @@
 | [0875-koko-eating-bananas](https://github.com/NITIN2028/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/NITIN2028/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/NITIN2028/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NITIN2028/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/NITIN2028/DSA/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/NITIN2028/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/NITIN2028/DSA/tree/master/1539-kth-missing-positive-number) |
@@ -113,6 +114,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/NITIN2028/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/NITIN2028/DSA/tree/master/0645-set-mismatch) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NITIN2028/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NITIN2028/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/NITIN2028/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Matrix
 |  |
@@ -135,6 +137,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/NITIN2028/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/NITIN2028/DSA/tree/master/0645-set-mismatch) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NITIN2028/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NITIN2028/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -204,4 +207,8 @@
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/NITIN2028/DSA/tree/master/0645-set-mismatch) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NITIN2028/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
