@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/NITIN2028/DSA/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/NITIN2028/DSA/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/NITIN2028/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NITIN2028/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/NITIN2028/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -135,6 +136,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/NITIN2028/DSA/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/NITIN2028/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/NITIN2028/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/NITIN2028/DSA/tree/master/0645-set-mismatch) |
@@ -143,6 +145,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/NITIN2028/DSA/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/NITIN2028/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/NITIN2028/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/NITIN2028/DSA/tree/master/0344-reverse-string) |
