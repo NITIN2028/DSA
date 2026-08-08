@@ -17,6 +17,7 @@
 | [0169-majority-element](https://github.com/NITIN2028/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/NITIN2028/DSA/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/NITIN2028/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NITIN2028/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/NITIN2028/DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NITIN2028/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/NITIN2028/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -117,6 +118,7 @@
 | [0205-isomorphic-strings](https://github.com/NITIN2028/DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/NITIN2028/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/NITIN2028/DSA/tree/master/0242-valid-anagram) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NITIN2028/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/NITIN2028/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/NITIN2028/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/NITIN2028/DSA/tree/master/0645-set-mismatch) |
