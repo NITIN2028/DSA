@@ -19,6 +19,7 @@
 | [0189-rotate-array](https://github.com/NITIN2028/DSA/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/NITIN2028/DSA/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/NITIN2028/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/NITIN2028/DSA/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NITIN2028/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/NITIN2028/DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NITIN2028/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -162,6 +163,7 @@
 | [0125-valid-palindrome](https://github.com/NITIN2028/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/NITIN2028/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/NITIN2028/DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/NITIN2028/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/NITIN2028/DSA/tree/master/0344-reverse-string) |
 ## String
 |  |
