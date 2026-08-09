@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NITIN2028/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/NITIN2028/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NITIN2028/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0053-maximum-subarray](https://github.com/NITIN2028/DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/NITIN2028/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/NITIN2028/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/NITIN2028/DSA/tree/master/0075-sort-colors) |
@@ -39,6 +40,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/NITIN2028/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NITIN2028/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NITIN2028/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/NITIN2028/DSA/tree/master/0509-fibonacci-number) |
@@ -228,6 +230,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/NITIN2028/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/NITIN2028/DSA/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/NITIN2028/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Bit Manipulation
