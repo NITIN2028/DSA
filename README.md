@@ -172,6 +172,7 @@
 | [0189-rotate-array](https://github.com/NITIN2028/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/NITIN2028/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/NITIN2028/DSA/tree/master/0344-reverse-string) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/NITIN2028/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NITIN2028/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -261,4 +262,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/NITIN2028/DSA/tree/master/0075-sort-colors) |
+## Linked List
+|  |
+| ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/NITIN2028/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
