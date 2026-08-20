@@ -189,6 +189,7 @@
 | [0796-rotate-string](https://github.com/NITIN2028/DSA/tree/master/0796-rotate-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/NITIN2028/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/NITIN2028/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/NITIN2028/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Greedy
 |  |
 | ------- |
@@ -243,6 +244,7 @@
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/NITIN2028/DSA/tree/master/0645-set-mismatch) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/NITIN2028/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Counting Sort
 |  |
 | ------- |
@@ -268,4 +270,8 @@
 |  |
 | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/NITIN2028/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/NITIN2028/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
