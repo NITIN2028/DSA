@@ -41,6 +41,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/NITIN2028/DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/NITIN2028/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NITIN2028/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NITIN2028/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -180,6 +181,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/NITIN2028/DSA/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/NITIN2028/DSA/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/NITIN2028/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/NITIN2028/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/NITIN2028/DSA/tree/master/0205-isomorphic-strings) |
@@ -273,5 +275,10 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/NITIN2028/DSA/tree/master/0022-generate-parentheses) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/NITIN2028/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/NITIN2028/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
