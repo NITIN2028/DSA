@@ -1,32 +1,35 @@
 class Solution {
 public:
-    void solve(int ind, vector<int>& comb, vector<vector<int>>& ans,
-               vector<int>& ds, int k, int n) {
+    void solve(int ind, int k, int n, vector<int>& nums,
+               vector<int>& ds, vector<vector<int>>& ans) {
 
-        if (k == 0 && n == 0) {
-            ans.push_back(ds);
+        if (k == 0) {
+            if (n == 0) {
+                ans.push_back(ds);
+            }
             return;
         }
 
-        if (ind == comb.size() || k == 0 || n < 0) {
-            return;
+        for (int i = ind; i < nums.size(); i++) {
+
+            if (nums[i] > n)
+                break;
+
+            ds.push_back(nums[i]);
+
+            solve(i + 1, k - 1, n - nums[i], nums, ds, ans);
+
+            ds.pop_back();
         }
-
-        
-        ds.push_back(comb[ind]);
-        solve(ind + 1, comb, ans, ds, k - 1, n - comb[ind]);
-        ds.pop_back();
-
-        
-        solve(ind + 1, comb, ans, ds, k, n);
     }
 
     vector<vector<int>> combinationSum3(int k, int n) {
-        vector<int> comb = {1,2,3,4,5,6,7,8,9};
+        vector<int> nums = {1,2,3,4,5,6,7,8,9};
+
         vector<vector<int>> ans;
         vector<int> ds;
 
-        solve(0, comb, ans, ds, k, n);
+        solve(0, k, n, nums, ds, ans);
 
         return ans;
     }
