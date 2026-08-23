@@ -50,6 +50,7 @@
 | [0053-maximum-subarray](https://github.com/NITIN2028/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NITIN2028/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NITIN2028/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/NITIN2028/DSA/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/NITIN2028/DSA/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
@@ -189,6 +190,7 @@
 | [0014-longest-common-prefix](https://github.com/NITIN2028/DSA/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/NITIN2028/DSA/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/NITIN2028/DSA/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/NITIN2028/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/NITIN2028/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/NITIN2028/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/NITIN2028/DSA/tree/master/0242-valid-anagram) |
@@ -288,6 +290,7 @@
 | [0040-combination-sum-ii](https://github.com/NITIN2028/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/NITIN2028/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/NITIN2028/DSA/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/NITIN2028/DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/NITIN2028/DSA/tree/master/0216-combination-sum-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/NITIN2028/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bracket Sequences
