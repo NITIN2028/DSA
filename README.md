@@ -51,6 +51,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/NITIN2028/DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/NITIN2028/DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/NITIN2028/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NITIN2028/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NITIN2028/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/NITIN2028/DSA/tree/master/0131-palindrome-partitioning) |
@@ -128,6 +129,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/NITIN2028/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/NITIN2028/DSA/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/NITIN2028/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/NITIN2028/DSA/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/NITIN2028/DSA/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/NITIN2028/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -163,6 +165,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/NITIN2028/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/NITIN2028/DSA/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
