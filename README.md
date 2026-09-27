@@ -27,6 +27,7 @@
 | [0169-majority-element](https://github.com/NITIN2028/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/NITIN2028/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/NITIN2028/DSA/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/NITIN2028/DSA/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/NITIN2028/DSA/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/NITIN2028/DSA/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/NITIN2028/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -57,6 +58,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/NITIN2028/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/NITIN2028/DSA/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/NITIN2028/DSA/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/NITIN2028/DSA/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/NITIN2028/DSA/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
