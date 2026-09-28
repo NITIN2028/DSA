@@ -42,6 +42,7 @@
 | [0645-set-mismatch](https://github.com/NITIN2028/DSA/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/NITIN2028/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/NITIN2028/DSA/tree/master/0875-koko-eating-bananas) |
+| [0931-minimum-falling-path-sum](https://github.com/NITIN2028/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/NITIN2028/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/NITIN2028/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NITIN2028/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -67,6 +68,7 @@
 | [0198-house-robber](https://github.com/NITIN2028/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/NITIN2028/DSA/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/NITIN2028/DSA/tree/master/0509-fibonacci-number) |
+| [0931-minimum-falling-path-sum](https://github.com/NITIN2028/DSA/tree/master/0931-minimum-falling-path-sum) |
 ## Stack
 |  |
 | ------- |
@@ -171,6 +173,7 @@
 | [0074-search-a-2d-matrix](https://github.com/NITIN2028/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/NITIN2028/DSA/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/NITIN2028/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0931-minimum-falling-path-sum](https://github.com/NITIN2028/DSA/tree/master/0931-minimum-falling-path-sum) |
 ## Recursion
 |  |
 | ------- |
