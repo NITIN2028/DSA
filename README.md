@@ -53,6 +53,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/NITIN2028/DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/NITIN2028/DSA/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/NITIN2028/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/NITIN2028/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NITIN2028/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NITIN2028/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -133,6 +134,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/NITIN2028/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/NITIN2028/DSA/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/NITIN2028/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/NITIN2028/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/NITIN2028/DSA/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/NITIN2028/DSA/tree/master/0509-fibonacci-number) |
@@ -317,4 +319,8 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/NITIN2028/DSA/tree/master/0051-n-queens) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/NITIN2028/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
