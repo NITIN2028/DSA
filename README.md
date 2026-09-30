@@ -46,6 +46,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/NITIN2028/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/NITIN2028/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NITIN2028/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1463-cherry-pickup-ii](https://github.com/NITIN2028/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1470-shuffle-the-array](https://github.com/NITIN2028/DSA/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/NITIN2028/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/NITIN2028/DSA/tree/master/1539-kth-missing-positive-number) |
@@ -69,6 +70,7 @@
 | [0213-house-robber-ii](https://github.com/NITIN2028/DSA/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/NITIN2028/DSA/tree/master/0509-fibonacci-number) |
 | [0931-minimum-falling-path-sum](https://github.com/NITIN2028/DSA/tree/master/0931-minimum-falling-path-sum) |
+| [1463-cherry-pickup-ii](https://github.com/NITIN2028/DSA/tree/master/1463-cherry-pickup-ii) |
 ## Stack
 |  |
 | ------- |
@@ -174,6 +176,7 @@
 | [0079-word-search](https://github.com/NITIN2028/DSA/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/NITIN2028/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/NITIN2028/DSA/tree/master/0931-minimum-falling-path-sum) |
+| [1463-cherry-pickup-ii](https://github.com/NITIN2028/DSA/tree/master/1463-cherry-pickup-ii) |
 ## Recursion
 |  |
 | ------- |
