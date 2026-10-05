@@ -35,6 +35,7 @@
 | [0229-majority-element-ii](https://github.com/NITIN2028/DSA/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/NITIN2028/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/NITIN2028/DSA/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/NITIN2028/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/NITIN2028/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NITIN2028/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/NITIN2028/DSA/tree/master/0485-max-consecutive-ones) |
@@ -69,6 +70,7 @@
 | [0131-palindrome-partitioning](https://github.com/NITIN2028/DSA/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/NITIN2028/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/NITIN2028/DSA/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/NITIN2028/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/NITIN2028/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/NITIN2028/DSA/tree/master/0509-fibonacci-number) |
 | [0931-minimum-falling-path-sum](https://github.com/NITIN2028/DSA/tree/master/0931-minimum-falling-path-sum) |
@@ -135,6 +137,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/NITIN2028/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NITIN2028/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/NITIN2028/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0322-coin-change](https://github.com/NITIN2028/DSA/tree/master/0322-coin-change) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NITIN2028/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Simulation
 |  |
@@ -342,9 +345,14 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/NITIN2028/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/NITIN2028/DSA/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/NITIN2028/DSA/tree/master/0416-partition-equal-subset-sum) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/NITIN2028/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
