@@ -142,6 +142,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/NITIN2028/DSA/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/NITIN2028/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NITIN2028/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
@@ -152,6 +153,7 @@
 | [0062-unique-paths](https://github.com/NITIN2028/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/NITIN2028/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/NITIN2028/DSA/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/NITIN2028/DSA/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/NITIN2028/DSA/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/NITIN2028/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/NITIN2028/DSA/tree/master/1922-count-good-numbers) |
@@ -355,4 +357,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/NITIN2028/DSA/tree/master/0322-coin-change) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/NITIN2028/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
