@@ -25,6 +25,7 @@
 | [0090-subsets-ii](https://github.com/NITIN2028/DSA/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/NITIN2028/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NITIN2028/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NITIN2028/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NITIN2028/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/NITIN2028/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/NITIN2028/DSA/tree/master/0169-majority-element) |
@@ -67,6 +68,7 @@
 | [0070-climbing-stairs](https://github.com/NITIN2028/DSA/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/NITIN2028/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NITIN2028/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NITIN2028/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NITIN2028/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/NITIN2028/DSA/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/NITIN2028/DSA/tree/master/0198-house-robber) |
@@ -241,6 +243,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NITIN2028/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/NITIN2028/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
 |  |
