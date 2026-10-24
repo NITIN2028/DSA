@@ -47,6 +47,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/NITIN2028/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/NITIN2028/DSA/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/NITIN2028/DSA/tree/master/0704-binary-search) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NITIN2028/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0875-koko-eating-bananas](https://github.com/NITIN2028/DSA/tree/master/0875-koko-eating-bananas) |
 | [0931-minimum-falling-path-sum](https://github.com/NITIN2028/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/NITIN2028/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -81,6 +82,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/NITIN2028/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/NITIN2028/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/NITIN2028/DSA/tree/master/0509-fibonacci-number) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NITIN2028/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0931-minimum-falling-path-sum](https://github.com/NITIN2028/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/NITIN2028/DSA/tree/master/1463-cherry-pickup-ii) |
 ## Stack
@@ -248,6 +250,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NITIN2028/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NITIN2028/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1903-largest-odd-number-in-string](https://github.com/NITIN2028/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
 |  |
