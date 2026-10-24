@@ -86,6 +86,7 @@
 | [0509-fibonacci-number](https://github.com/NITIN2028/DSA/tree/master/0509-fibonacci-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NITIN2028/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0931-minimum-falling-path-sum](https://github.com/NITIN2028/DSA/tree/master/0931-minimum-falling-path-sum) |
+| [1143-longest-common-subsequence](https://github.com/NITIN2028/DSA/tree/master/1143-longest-common-subsequence) |
 | [1463-cherry-pickup-ii](https://github.com/NITIN2028/DSA/tree/master/1463-cherry-pickup-ii) |
 ## Stack
 |  |
@@ -245,6 +246,7 @@
 | [0344-reverse-string](https://github.com/NITIN2028/DSA/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/NITIN2028/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/NITIN2028/DSA/tree/master/0796-rotate-string) |
+| [1143-longest-common-subsequence](https://github.com/NITIN2028/DSA/tree/master/1143-longest-common-subsequence) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/NITIN2028/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/NITIN2028/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/NITIN2028/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -378,4 +380,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/NITIN2028/DSA/tree/master/0258-add-digits) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/NITIN2028/DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
